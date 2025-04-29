@@ -14,15 +14,7 @@ Traditional trading systems underutilize unstructured sentiment data. This proje
 
 ---
 
-## 👥 Contributors
 
-| Name               | Role                                        | Commits |
-|--------------------|---------------------------------------------|---------|
-| All team members   | Design, Infra setup, Documentation          | [Link](#) |
-| Ronit Gehani       | Data pipeline, MLflow, FSDP                 | [Link](#) |
-| Deeptanshu Lnu     | Training pipeline, FinBERT optimization     | [Link](#) |
-| Nobodit Choudhury  | FastAPI backend, serving infra              | [Link](#) |
-| Aviraj Dongare     | CI/CD, GitHub Actions, Infra-as-Code        | [Link](#) |
 
 ---
 
